@@ -1,0 +1,15 @@
+places=["USA", "Australia", "Japan", "China", "Rusia"]
+
+print(f"Original list:\n{places}")
+print(f"Alphabetical list:\n{sorted(places)}")
+print(f"Original list:\n{places}")
+print(f"Reverse alphabetical list:\n{sorted(places, reverse=True)}")
+print(f"Original list:\n{places}")
+places.reverse()
+print(f"Reversed list:\n{places}")
+places.reverse()
+print(f"Original list:\n{places}")
+places.sort()
+print(f"Sorted list:\n{places}")
+places.sort(reverse=True)
+print(f"Reverse sorted list:\n{places}")
