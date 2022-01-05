@@ -1,0 +1,2 @@
+In Python you can manage files.
+In Python you can program easily.
